@@ -1,2 +1,2 @@
-# BounceOFF-C21
-yayyayayya
+# collisionAlgorithm
+Algorithm to detect collision between two objects
